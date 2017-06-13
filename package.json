@@ -1,0 +1,19 @@
+{
+  "name": "argon2-browser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/argon2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jroitgrund/argon2-browser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jroitgrund/argon2-browser/issues"
+  },
+  "homepage": "https://github.com/jroitgrund/argon2-browser#readme"
+}
